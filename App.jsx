@@ -5,8 +5,8 @@ const CONFIG = {
   siteName: "Parrainage Fortuneo",
   bankName: "Fortuneo",
   referralCode: "12550423",
-  filleulBonus: 80, // prime de bienvenue (filleul)
-  parrainBonus: 50, // gain par parrainage (parrain)
+  filleulBonus: 130, // prime de bienvenue (filleul)
+  parrainBonus: 110, // gain par parrainage (parrain)
   legalEntity: "Stanislas Aumont",
   contactEmail: "stanislas.aumont@gmail.com",
   primary: {
